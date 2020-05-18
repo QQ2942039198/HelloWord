@@ -1,7 +1,5 @@
-HelloWord
+helloword--简介
 
-Self-content display！
+pengung.github.io--个人博客
 
-pengung.github.io个人博客！
-
-学习笔记！
+notes--学习笔记
